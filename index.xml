@@ -10,6 +10,16 @@
       <link>https://omartariq612.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://omartariq612.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 12:49:40 +0200</lastBuildDate><atom:link href="https://omartariq612.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>https://omartariq612.github.io/posts/firstpost/</link>
+      <pubDate>Tue, 14 Feb 2023 12:49:40 +0200</pubDate>
+      
+      <guid>https://omartariq612.github.io/posts/firstpost/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
   </channel>
 </rss>
